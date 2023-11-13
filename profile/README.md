@@ -7,4 +7,7 @@ Our current project codenamed "comida" is an intuitive recipe creation and shari
 
 Located at https://github.com/MMERJ-Group/project-comida
 
+## 🗨️ Get in Contact
+Join our community to discuss the project via [Discord](https://discord.gg/8udwG9f2Xh).
+
 No far-off goals yet of how the project should play out. If you have any ideas for the project submit an issue.
